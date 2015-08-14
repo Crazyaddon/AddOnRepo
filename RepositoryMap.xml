@@ -1,4 +1,7 @@
 <RepositoryMap>
     <Repo CountryCode="US" RepoPath="http://raw.github.com/Crazyaddon/AddOnRepo/master/US.zip"/>
     <Repo CountryCode="DE" RepoPath="http://raw.github.com/Crazyaddon/AddOnRepo/master/DE.zip"/>
+	<Repo CountryCode="PopularaddonsA" RepoPath="http://raw.github.com/Crazyaddon/AddOnRepo/master/PopularaddonsA.zip"/>
+	<Repo CountryCode="PopularaddonsB" RepoPath="http://raw.github.com/Crazyaddon/AddOnRepo/master/PopularaddonsB.zip"/>
+	<Repo CountryCode="PopularaddonsC" RepoPath="http://raw.github.com/Crazyaddon/AddOnRepo/master/PopularaddonsC.zip"/>
 </RepositoryMap>
