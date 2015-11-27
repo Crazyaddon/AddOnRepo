@@ -3,4 +3,5 @@
     <Repo CountryCode="US" RepoPath="http://raw.github.com/Crazyaddon/AddOnRepo/master/US1.zip"/>
     <Repo CountryCode="US" RepoPath="http://raw.github.com/Crazyaddon/AddOnRepo/master/US2.zip"/>
     <Repo CountryCode="US" RepoPath="http://raw.github.com/Crazyaddon/AddOnRepo/master/US3.zip"/>
+    <Repo CountryCode="AU" RepoPath="http://raw.github.com/Crazyaddon/AddOnRepo/master/Australian.zip"/>
 </RepositoryMap>
