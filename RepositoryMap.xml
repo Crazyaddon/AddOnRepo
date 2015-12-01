@@ -6,4 +6,5 @@
     <Repo CountryCode="AU" RepoPath="http://raw.github.com/Crazyaddon/AddOnRepo/master/Australian.zip"/>
     <Repo CountryCode="UK" RepoPath="http://raw.github.com/Crazyaddon/AddOnRepo/master/Uk.zip"/>
     <Repo CountryCode="CA" RepoPath="http://raw.github.com/Crazyaddon/AddOnRepo/master/Canadian.zip"/>
+    <Repo CountryCode="FR" RepoPath="http://raw.github.com/Crazyaddon/AddOnRepo/master/French.zip"/>
 </RepositoryMap>
