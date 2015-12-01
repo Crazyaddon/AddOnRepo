@@ -7,7 +7,7 @@
     <Repo CountryCode="UK" RepoPath="http://raw.github.com/Crazyaddon/AddOnRepo/master/Uk.zip"/>
     <Repo CountryCode="CA" RepoPath="http://raw.github.com/Crazyaddon/AddOnRepo/master/Canadian.zip"/>
     <Repo CountryCode="FR" RepoPath="http://raw.github.com/Crazyaddon/AddOnRepo/master/French.zip"/>
-    <Repo CountryCode="BR" RepoPath="http://raw.github.com/Crazyaddon/AddOnRepo/master/Brazilian.zip"/>
+    <Repo CountryCode="Br" RepoPath="http://raw.github.com/Crazyaddon/AddOnRepo/master/Brazilian.zip"/>
     <Repo CountryCode="TH" RepoPath="http://raw.github.com/Crazyaddon/AddOnRepo/master/Thai.zip"/>
     <Repo CountryCode="VN" RepoPath="http://raw.github.com/Crazyaddon/AddOnRepo/master/Vietnamese.zip"/>.
      <Repo CountryCode="Asian" RepoPath="http://raw.github.com/Crazyaddon/AddOnRepo/master/Asian.zip"/>
