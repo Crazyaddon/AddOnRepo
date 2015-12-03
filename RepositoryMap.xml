@@ -11,4 +11,5 @@
     <Repo CountryCode="TH" RepoPath="http://raw.github.com/Crazyaddon/AddOnRepo/master/Thai.zip"/>
     <Repo CountryCode="VN" RepoPath="http://raw.github.com/Crazyaddon/AddOnRepo/master/Vietnamese.zip"/>
     <Repo CountryCode="Asian" RepoPath="http://raw.github.com/Crazyaddon/AddOnRepo/master/Asian.zip"/>
+    <Repo CountryCode="Es" RepoPath="http://raw.github.com/Crazyaddon/AddOnRepo/master/Spanish.zip"/>
 </RepositoryMap>
